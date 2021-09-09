@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T04:29:16.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="d0frtJEBgvj5RI-uLR8E" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T05:37:53.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="RuX9MkTrFrmUvXPLuXq2" version="15.1.2" type="github">
   <diagram id="0wo4Fb70hYI9KLnt7_vg" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,22 @@
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-3" target="7NUJ8Q28E9iabLnH8BL6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-3" target="7NUJ8Q28E9iabLnH8BL6-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-3" value="是否需要资料上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218.75" y="150" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-8" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.74" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.74" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-14" target="7NUJ8Q28E9iabLnH8BL6-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-14" value="跳转至资料上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="250" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-19" target="7NUJ8Q28E9iabLnH8BL6-30">
           <mxGeometry relative="1" as="geometry" />
@@ -33,14 +35,11 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-19" target="7NUJ8Q28E9iabLnH8BL6-33">
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-28" target="7NUJ8Q28E9iabLnH8BL6-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-19" value="判断是否为多被保人场景" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="216.25" y="350" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-28" value="init" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="290" width="50" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="280" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-30" target="7NUJ8Q28E9iabLnH8BL6-35">
           <mxGeometry relative="1" as="geometry" />
@@ -51,43 +50,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-30" value="展示多被保人列表页/及资料上传状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-33">
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-33" target="7NUJ8Q28E9iabLnH8BL6-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="308.75" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-43" value="渲染被保人信息及需上传证件列表&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NUJ8Q28E9iabLnH8BL6-42">
           <mxGeometry x="-0.0889" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-33" value="展示被保人需上传资料页&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.75" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.74" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-35" target="7NUJ8Q28E9iabLnH8BL6-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-35" value="跳转至被保人上传资料页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-45" target="7NUJ8Q28E9iabLnH8BL6-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-48" value="调用详情接口&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NUJ8Q28E9iabLnH8BL6-47">
-          <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-45" value="展示上传资料认证状态；点击后跳转至资料上传页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.74" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-46" target="7NUJ8Q28E9iabLnH8BL6-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-46" value="填写信息" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="268.12" y="770" width="81.25" height="40" as="geometry" />
+          <mxGeometry x="268.12" y="800" width="81.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-50" target="7NUJ8Q28E9iabLnH8BL6-52">
           <mxGeometry relative="1" as="geometry" />
@@ -98,13 +92,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-50" value="填写信息后调用提交接口提交成功后返回需上传资料页&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.74" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.74" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-52" target="7NUJ8Q28E9iabLnH8BL6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NUJ8Q28E9iabLnH8BL6-52" value="（多）所有人资料上传成功后可下一步&lt;br&gt;（单）资料认证通过可点击下一步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.75" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-59" value="调用上传接口&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NUJ8Q28E9iabLnH8BL6-56">
+          <mxGeometry x="-0.2023" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-52" value="（多）所有人资料上传成功后可点击提交按钮&lt;br&gt;（单）资料认证通过可点击提交按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248.74" y="960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7NUJ8Q28E9iabLnH8BL6-58" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-3" target="7NUJ8Q28E9iabLnH8BL6-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,8 +112,59 @@
             <Array as="points">
               <mxPoint x="640" y="190" />
               <mxPoint x="640" y="1060" />
+              <mxPoint x="640" y="1120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-465" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-463" target="7NUJ8Q28E9iabLnH8BL6-464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-463" value="投保流程测算页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-467" value="是&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-464">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800.0000000000005" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-469" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-464" target="7NUJ8Q28E9iabLnH8BL6-468">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-464" value="判断是否需要进行资料补充上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="145" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-468" value="投保流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-472" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-470" target="7NUJ8Q28E9iabLnH8BL6-471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-474" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-470" target="7NUJ8Q28E9iabLnH8BL6-473">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-470" value="&lt;span&gt;弹窗提示重新投保/去上传&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="290" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-471" value="跳转至资料上传页面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-473" value="重新投保&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-28" value="&amp;nbsp; &amp;nbsp; （分享）判断是否存在persionId；如存在则在初始化和详情时携带" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219.98999999999998" y="395" width="181.26" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-476" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="7NUJ8Q28E9iabLnH8BL6-19" target="7NUJ8Q28E9iabLnH8BL6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.6470588235293" y="359.9969475357709" as="sourcePoint" />
+            <mxPoint x="307.5294117647061" y="509.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-477" value="调用init&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269.06" y="500" width="81.88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7NUJ8Q28E9iabLnH8BL6-478" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;调用详情接口&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265.46" y="740" width="83.91" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
